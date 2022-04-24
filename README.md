@@ -22,4 +22,4 @@ Segment the image by color, applying a unique color to each segment.
 
 ![colors2](https://user-images.githubusercontent.com/1350889/164956251-4319dc75-195d-4c42-a506-bd383257fc44.png)
 
-![out](https://user-images.githubusercontent.com/1350889/164956272-80818091-24fc-4be7-b4f6-f25854ccf06f.png)
+![out](https://user-images.githubusercontent.com/1350889/164956277-5b49c5ec-c50c-4324-a8e5-85342c65e3a2.png)
