@@ -8,7 +8,7 @@ Segment the image by color, applying a unique color to each segment.
 
 ## Run
 
-`image_segmenter.exe run -i input.png -o output.png`
+`image_segmenter.exe -i input.png -o output.png`
 
 ## Examples
 
