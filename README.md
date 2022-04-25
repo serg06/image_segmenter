@@ -2,6 +2,10 @@
 
 Segment the image by color, applying a unique color to each segment.
 
+## UPDATE 25/04/2022
+
+It looks like most of the functionality can be replaced with [opencv::imgproc::flood_fill](https://docs.rs/opencv/0.19.2/opencv/imgproc/fn.flood_fill.html).
+
 ## Build
 
 `cargo build --release`
